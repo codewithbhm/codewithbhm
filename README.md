@@ -1,61 +1,52 @@
-## Hi there! 👋
+## 👋 Hi there, I'm Bəhruz!
 
-I'm Bəhruz, a passionate Web & Mobile Developer. I love creating dynamic and responsive applications using the latest technologies. Let's build something amazing together!
+### 🌟 A dedicated Web & Mobile Developer | Student | JavaScript enthusiast
 
-## About Me
+---
 
-I'm a dedicated student and developer with a focus on web and mobile technologies. I specialize in JavaScript and TypeScript, utilizing frameworks like ReactJS, NextJS, and NestJS. I currently have two public repositories on GitHub and enjoy collaborating on diverse projects.
+## 🚀 Skills and Interests
 
-## Skills & Technologies
+- Front-end Development: ReactJS, NextJS, React Native
+- Server-side Development: NestJS, ExpressJS
+- Proficient in JavaScript, CSS, HTML
+- Constantly learning and expanding skill set
 
+## 🎯 Coding Habits
 
+- **Public Repositories**: 2
+- **Commits**: 2
+- **Most Starred Repository**: "game-4-24" (JavaScript, CSS, HTML)
+  
+## 💼 Project Contributions
 
-## Top Projects
+- Actively involved in enhancing open-source projects
+- Dedicated personal branding and organization through "codewithbhm" repository
+  
+## 🔥 GitHub Presence
 
-- [codewithbhm](https://github.com/codewithbhm/codewithbhm): Config files for my GitHub profile. ⭐ 0 
-- [game-4-24](https://github.com/codewithbhm/game-4-24): A fun game project built with JavaScript. ⭐ 1
+- **Followers**: 11
+- **Following**: 15
+- **Account Creation Date**: September 4, 2023
+- Consistent activity and growth showcased on GitHub
 
-## GitHub Stats
+---
 
-📈 **Public Repositories**: 2
-👥 **Followers**: 11
-🔗 **Following**: 15
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithbhm&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=codewithbhm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbhm)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithbhm)](https://github.com/codewithbhm)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bəhruz)](https://git.io/streak-stats)
 
-## Recent Activity
+---
 
-- Pushed to [game-4-24](https://github.com/codewithbhm/game-4-24) on June 3, 2025
-- Forked [SelmanKahya/game-4-24](https://github.com/SelmanKahya/game-4-24) on May 31, 2025
-- Created a new branch in [Page-test](https://github.com/codewithbhm/Page-test) on May 29, 2025
+## 📱 Connect with me
 
-## Latest Blog Posts
+- GitHub: [codewithbhm](https://github.com/codewithbhm)
+- Email: [bəhruz@example.com](mailto:bəhruz@gmail.com)
+- Instagram [codewithbhm](https://www.instagram.com/codewithbhm)
+---
 
-Currently, I do not have any blog posts. Stay tuned!
+## 🌈 Thank you for visiting my GitHub profile!
 
-## Connect with Me
-
-{"instagram":"https://www.instagram.com/codewithbhm","generic":"https://t.me/codewithbhm"}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
-
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
-
-## ASCII Art
-
-```
-                _               _ _   _     _     _               
-   ___ ___   __| | _____      _(_) |_| |__ | |__ | |__  _ __ ___  
-  / __/ _ \ / _` |/ _ \ \ /\ / / | __| '_ \| '_ \| '_ \| '_ ` _ \ 
- | (_| (_) | (_| |  __/\ V  V /| | |_| | | | |_) | | | | | | | | |
-  \___\___/ \__,_|\___| \_/\_/ |_|\__|_| |_|_.__/|_| |_|_| |_| |_|
-                                                                  
-```
+### 🚀 Let's transform ideas into reality | Happy coding! 🚀
